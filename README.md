@@ -5,7 +5,7 @@
 <br />
 <br />
 
-![Life Finder to go](./assets/images/Life Finder to go.gif)
+![GitHub Logo](./assets/images/Life Finder to go.gif)
 <br/>
 <br/>
  ____________________________________________________________________________

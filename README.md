@@ -5,9 +5,11 @@
 <br />
 <br />
 
+
 ![GitHub Logo](./assets/images/lifeFinder.png)
 <br/>
 <br/>
+
  ____________________________________________________________________________
 Live Link: https://vitokwolf.github.io/lifeFinder/
 <br/>
